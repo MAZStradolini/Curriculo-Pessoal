@@ -78,7 +78,7 @@ footer {
 }
 
 a {
-    color: rgb(189, 189, 245); /* Define a cor padrão para os links */
+    color: black; /* Define a cor padrão para os links */
 }
 
 a:hover {
